@@ -10,9 +10,9 @@ I build **practical AI applications**: LLM systems, RAG pipelines and automation
 
 ## 🚀 Featured work
 
-**[Pebble](https://pebble.eu.com)**: AI prompt quality analyzer *(live, my bachelor thesis project)*
-Analyzes prompts and flags issues across clarity, structure, output specification, behavior and context efficiency. It uses a two-layer design: deterministic rule-based checks plus an LLM-as-judge layer for semantic evaluation.
-`Python` `OpenAI API` `Anthropic API`
+**[Pebble](https://github.com/DaniKabbani/pebble)**: prompt linter for AI · [live app](https://pebble.eu.com) · [Chrome extension](https://chromewebstore.google.com/detail/pebble-prompt-linter/docaejnknhbohkifmkeahbkmhdomndhd) *(my bachelor thesis project)*
+Scores prompts 0–100 and flags what's weak, why, and how to fix it, right inside Claude, ChatGPT and Gemini. It uses a two-layer design: an LLM-as-judge for semantic analysis plus deterministic, rule-based scoring.
+`Next.js` `TypeScript` `Anthropic API` `Supabase` `Chrome extension`
 
 **AI Voice Agent**: appointment booking for an advisory business
 Handles scheduling, customer questions and missed-call follow-up on its own, with an automated missed-call-to-booking pipeline and 24-hour reminders to cut no-shows.
@@ -28,7 +28,7 @@ Handles scheduling, customer questions and missed-call follow-up on its own, wit
 **AI & LLMs:** Prompt engineering · RAG · LangChain · OpenAI API · Anthropic Claude API · MCP · Claude Code
 **Automation:** n8n · Make.com · Zapier · Retell AI · ElevenLabs
 **Data:** Python · pandas · Snowflake · Amazon QuickSight · New Relic
-**Ship it:** Vercel · Supabase · Git
+**Web & ship it:** Next.js · TypeScript · Vercel · Supabase · Git
 
 ## 📜 Certifications
 
